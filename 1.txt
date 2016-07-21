@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: turquoise;}
+h1   {color:white;}
+p    {font-weight:bold; color:red;}
+img  {height:30%; width:30%;}
+</style>
+<title>
+WELCOME
+</title>
+</head>
+<body>
+<center>
+<img src="Apple.jpg"> </img>
+<h1>
+   welcome
+</h1>
+<p>
+I'm <a href="http://www.google.com">
+Somaia Mahmoud</a>
+</p>
+</center>
+</body>
+</html>h1
